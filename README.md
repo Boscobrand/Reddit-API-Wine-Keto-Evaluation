@@ -6,6 +6,7 @@
 
 #### **PROBLEM STATEMENT:**
 
+
 The Brand Marketing Team responsible for the Wine and Champagne Portfolio at international importer Pernod Ricard has been focused on aligning their brands with key trends in the marketplace, and on connecting with consumers as often as possible through different media environments.  
 
 
@@ -21,10 +22,11 @@ The leader of the Brand Team is skeptical about translating their success to the
 #### **OUR OBJECTIVES:**
 
 
-•	Use Web API’s and Classification Methods, collect a significant amount of posts from each subreddit to analyze
-•	Use Natural Language Processing and Text Feature Extraction methods, prepare the posts for classification
-•	Use Regression models to analyze and predict how similar or different the two subreddits may be based on Accuracy and using a Receiver Operating Characteristic Curve to assess.
-•	Share insights and recommendations with clients
+- Use Web API’s and Classification Methods, collect a significant amount of posts from each subreddit to analyze
+- Use Natural Language Processing and Text Feature Extraction methods, prepare the posts for classification
+- Use Regression models to analyze and predict how similar or different the two subreddits may be based on Accuracy and using a Receiver Operating Characteristic Curve to assess.
+- Share insights and recommendations with clients
+
 
 #### **EXECUTIVE SUMMARY**
 
@@ -58,6 +60,7 @@ We would recommend that it could be worthwhile to consider evaluating other subr
 
 #### **CONTENTS**
 
+
 -	NOTEBOOK A: EXECUTIVE SUMMARY (THIS NOTEBOOK)
 -	NOTEBOOK B: COLLECTION OF KETO AND WINE POSTS THROUGH PUSHSHIFT IO
 -   NOTEBOOK C: CLEANING OF KETO AND WINE PUSHSHIFT IO CAPTURES
@@ -65,6 +68,7 @@ We would recommend that it could be worthwhile to consider evaluating other subr
 
 
 #### **SOURCE DOCUMENTATION**
+
 
 -	[keto_push_clean.csv](*keto_push_clean.csv*)
 -	[wine_push_clean.csv](*wine_push_clean.csv*)
